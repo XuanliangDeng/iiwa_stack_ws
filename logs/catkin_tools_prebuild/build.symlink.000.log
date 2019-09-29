@@ -1,0 +1,12 @@
+Symlinking /home/clearlab/iiwa_stack_ws/devel/./local_setup.bash
+Symlinking /home/clearlab/iiwa_stack_ws/devel/./cmake.lock
+Symlinking /home/clearlab/iiwa_stack_ws/devel/./setup.zsh
+Symlinking /home/clearlab/iiwa_stack_ws/devel/./_setup_util.py
+Symlinking /home/clearlab/iiwa_stack_ws/devel/./local_setup.sh
+Symlinking /home/clearlab/iiwa_stack_ws/devel/./local_setup.zsh
+Symlinking /home/clearlab/iiwa_stack_ws/devel/./setup.sh
+Symlinking /home/clearlab/iiwa_stack_ws/devel/./env.sh
+Symlinking /home/clearlab/iiwa_stack_ws/devel/./setup.bash
+Symlinking /home/clearlab/iiwa_stack_ws/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /home/clearlab/iiwa_stack_ws/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/clearlab/iiwa_stack_ws/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake

@@ -1,0 +1,8 @@
+prefix=/home/clearlab/iiwa_stack_ws/devel/.private/iiwa_msgs
+
+Name: iiwa_msgs
+Description: Description of iiwa_msgs
+Version: 2.3.1
+Cflags: -I/home/clearlab/iiwa_stack_ws/devel/.private/iiwa_msgs/include
+Libs: -L/home/clearlab/iiwa_stack_ws/devel/.private/iiwa_msgs/lib 
+Requires: message_runtime std_msgs geometry_msgs

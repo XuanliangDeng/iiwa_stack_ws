@@ -1,0 +1,5 @@
+Symlinking /home/clearlab/iiwa_stack_ws/devel/lib/libiiwa_ros.so
+Symlinking /home/clearlab/iiwa_stack_ws/devel/lib/pkgconfig/iiwa_ros.pc
+Symlinking /home/clearlab/iiwa_stack_ws/devel/lib/iiwa_ros/iiwa_ros_test
+Symlinking /home/clearlab/iiwa_stack_ws/devel/share/iiwa_ros/cmake/iiwa_rosConfig.cmake
+Symlinking /home/clearlab/iiwa_stack_ws/devel/share/iiwa_ros/cmake/iiwa_rosConfig-version.cmake
